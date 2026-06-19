@@ -13,4 +13,4 @@ if you can find a problem (or some shit, idk), please report it to me so that i 
 
 ## Reporting a Vulnerability
 
-if you find a vunerability report it emeditly and i can fix it (or maybe my brain can't do shit like this, so in that case just DIY it)
+if you find a vunerability report it emeditly and i can fix it (or maybe my brain can't do stuff like this, so in that case just DIY it)
