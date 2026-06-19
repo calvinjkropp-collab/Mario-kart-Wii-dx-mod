@@ -4,3 +4,6 @@ my mod for mario kart wii in scratch(go check it out https://scratch.mit.edu/pro
 i did try my best to convert all the code to python so there will be mistakes in the code.(if the external file if fauty, blame me for making it too complex)
 
 on the scratch vertion i spent more than a day (excluding the times i didn't work on it) so i hope you like this one!
+
+online achive:
+https://246219227.hs-sites-na2.com/mario-kart-wii-dx-online-archive?hs_preview=zkQPcGmw-356209435359&
