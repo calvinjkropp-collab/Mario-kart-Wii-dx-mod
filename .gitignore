@@ -61,6 +61,7 @@ Offline-SGBDs
 # Exclude default and custom temporary directories
 Backup_*
 
+# backup for some shit i made
 # Python bytecode and cache files
 __pycache__/
 *.py[cod]
